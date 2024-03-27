@@ -1,0 +1,69 @@
+header .logo {
+  padding: 1rem 2rem;
+  font-size: var(--header-logo);
+  display: flex;
+}
+
+.navbar input[type="checkbox"],
+.navbar .hamburger-lines {
+  display: none;
+}
+
+.container {
+  max-width: 1200px;
+  width: 90%;
+  margin: auto;
+}
+
+.navbar {
+  position: fixed;
+  width: 100%;
+  color: #000;
+  opacity: 0.85;
+  z-index: 100;
+  box-shadow: 0px 5px 3px 0px var(--solid-black);
+}
+
+.navbar-container {
+  display: flex;
+  justify-content: space-between;
+  height: 64px;
+  align-items: center;
+}
+
+.menu-items {
+  order: 2;
+  display: flex;
+  text-wrap: nowrap;
+}
+
+.logo {
+  order: 1;
+  color: var(--purplish-blue);
+}
+
+.menu-items li {
+  list-style: none;
+  margin-left: 1.5rem;
+  font-size: 1.3rem;
+}
+
+.navbar a {
+  color: var(--white);
+  text-decoration: none;
+  font-size: var(--nav);
+  font-weight: 500;
+  transition: var(--transition-hover);
+  color: var(--black);
+}
+
+.navbar a:hover {
+  color: var(--cornflower-blue);
+}
+
+.navbar .book-a-court {
+  padding: 0.5rem 1rem;
+  border-radius: 1rem;
+  background-color: var(--purplish-blue);
+  color: var(--white);
+}

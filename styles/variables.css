@@ -1,0 +1,11 @@
+:root {
+  --white: #ffffff;
+  --purplish-blue: #806eed;
+  --black: #000000;
+  --light-gray: #f2f2f2;
+  --medium-light-gray: #a6a6a6;
+
+  /* font size */
+  --hero-section-h1: 4rem;
+  --hero-section-h2: 3rem;
+}
