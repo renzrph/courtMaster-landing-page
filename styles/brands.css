@@ -1,0 +1,17 @@
+.brands-container {
+  background-color: var(--light-gray);
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  gap: 2rem;
+  border: 1px solid var(--black);
+  padding: 1rem 0;
+  width: 100%;
+  border-left: none;
+  border-right: none;
+}
+
+.brands-container img {
+  height: 100px;
+  width: 200px;
+}

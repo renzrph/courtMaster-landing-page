@@ -1,14 +1,14 @@
 .hero-section {
   background-color: var(--light-gray);
   width: 100%;
-  border: 3px solid black;
+
   display: flex;
   justify-content: center;
   align-items: center;
+  position: relative;
 }
 
 .hero-section-message {
-  border: 1px solid blue;
   text-wrap: wrap;
   width: 50%;
 }
@@ -25,4 +25,5 @@
 
 .basketball-player-img-container {
   border: 1px solid red;
+  z-index: 2;
 }

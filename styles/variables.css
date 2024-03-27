@@ -4,8 +4,16 @@
   --black: #000000;
   --light-gray: #f2f2f2;
   --medium-light-gray: #a6a6a6;
+  --lavander: #bcb2f5;
 
-  /* font size */
+  /* Fonts */
+
+  /* Hero section */
   --hero-section-h1: 4rem;
   --hero-section-h2: 3rem;
+
+  /* Content section  */
+  --content-section-h1: 3.5rem;
+  --content-section-strong: 1.5rem;
+  --content-section-span: 2.5rem;
 }
