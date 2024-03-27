@@ -8,6 +8,10 @@
 
   /* Fonts */
 
+  /* Navbar */
+  --logo: 1.75rem;
+  --reserve-now-button: 1.75rem;
+
   /* Hero section */
   --hero-section-h1: 4rem;
   --hero-section-h2: 3rem;
@@ -16,4 +20,8 @@
   --content-section-h1: 3.5rem;
   --content-section-strong: 1.5rem;
   --content-section-span: 2.5rem;
+
+  /* Product headline section */
+  --headline-h1: 4rem;
+  --headline-paragraph: 2rem;
 }

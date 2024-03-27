@@ -1,0 +1,36 @@
+.product-headline-section {
+  width: 100%;
+  margin: 3rem 0;
+  height: 960px;
+  position: relative;
+}
+
+.headline-container {
+  position: absolute;
+  z-index: 1;
+  top: 50%;
+  left: 5%;
+}
+
+.headline {
+  font-size: var(--headline-h1);
+  color: var(--white);
+}
+
+.headline span {
+  color: var(--purplish-blue);
+}
+
+.headline-container p {
+  color: var(--white);
+  font-size: var(--headline-paragraph);
+}
+
+p span {
+  color: var(--purplish-blue);
+}
+
+.basketball-court-img {
+  width: 100%;
+  object-fit: contain;
+}
