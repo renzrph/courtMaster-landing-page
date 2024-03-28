@@ -71,3 +71,9 @@ header .logo {
   background-color: var(--purplish-blue);
   color: var(--white);
 }
+
+.navbar .book-a-court:hover {
+  cursor: pointer;
+  background-color: var(--hover);
+  color: var(--white);
+}

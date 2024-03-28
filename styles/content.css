@@ -71,3 +71,8 @@
   border-radius: 2rem;
   border: none;
 }
+
+.cards div button:hover {
+  background-color: var(--hover);
+  cursor: pointer;
+}
