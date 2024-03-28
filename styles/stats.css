@@ -15,7 +15,6 @@
 
 .image-stats-wrapper {
   display: flex;
-  border: 1px solid black;
   justify-content: center;
 }
 
@@ -37,7 +36,6 @@
 .stats div {
   display: flex;
   column-gap: 2rem;
-  /* flex-wrap: wrap; */
   justify-content: center;
   flex: 1;
   margin: 2rem 0;

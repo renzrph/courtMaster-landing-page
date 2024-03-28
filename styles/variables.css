@@ -31,4 +31,12 @@
   /* Stats section */
   --stats-text-strong: 2rem;
   --stats-text-small: 1.2rem;
+
+  /* Testismonials section */
+  --testimonials-h1: 3.5rem;
+  --testimonials-paragraph: 1.5rem;
+
+  /* Contact section */
+  --contact-strong: 3.5rem;
+  --contact-h2: 3.5rem;
 }
