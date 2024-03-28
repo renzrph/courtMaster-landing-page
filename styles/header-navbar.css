@@ -77,4 +77,5 @@ header .logo {
   cursor: pointer;
   background-color: var(--hover);
   color: var(--white);
+  text-decoration: none;
 }
