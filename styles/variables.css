@@ -5,6 +5,9 @@
   --light-gray: #f2f2f2;
   --medium-light-gray: #a6a6a6;
   --lavander: #bcb2f5;
+  --pale-lavander: #e9e6f7;
+  --deep-blue: #2107ba;
+  --dark-gray: #4b4a52;
 
   /* Fonts */
 
@@ -24,4 +27,8 @@
   /* Product headline section */
   --headline-h1: 4rem;
   --headline-paragraph: 2rem;
+
+  /* Stats section */
+  --stats-text-strong: 2rem;
+  --stats-text-small: 1.2rem;
 }

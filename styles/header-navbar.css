@@ -29,6 +29,7 @@ header .logo {
   justify-content: space-between;
   height: 64px;
   align-items: center;
+  z-index: -1;
 }
 
 .menu-items {
