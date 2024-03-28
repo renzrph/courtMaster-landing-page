@@ -62,7 +62,8 @@ header .logo {
 }
 
 .navbar a:hover {
-  color: var(--cornflower-blue);
+  color: var(--purplish-blue);
+  text-decoration: underline;
 }
 
 .navbar .book-a-court {
