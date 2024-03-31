@@ -21,7 +21,7 @@
 /* For mobile devices (up to 767px) */
 @media (max-width: 767px) {
   body {
-    min-width: 430px;
+    min-width: 460px;
     overflow-x: hidden;
   }
 
@@ -163,6 +163,7 @@
     display: flex;
     flex-direction: column;
     text-align: center;
+    padding: 30rem 0 25rem 0;
   }
 
   .hero-section-message {
@@ -210,11 +211,20 @@
     flex-direction: column;
   }
 
+  .testimonials p {
+    width: 50%;
+    margin: auto;
+  }
+
   .form-contact-wrapper {
     flex-direction: column;
   }
 
   .slanted-bg {
     display: none;
+  }
+
+  .location-section img {
+    width: 70%;
   }
 }
