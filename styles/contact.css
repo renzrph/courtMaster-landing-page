@@ -3,8 +3,9 @@
   margin: 0 auto;
   display: flex;
   justify-content: center;
+  flex-wrap: wrap;
   padding: 8rem 0 2rem 0;
-  position: relative;
+  /* position: relative; */
 }
 
 .form-contact-wrapper {

@@ -6,4 +6,6 @@ body {
   width: 100%;
   overflow-x: hidden;
   background-color: var(--light-gray);
+  display: grid;
+  margin: 0 auto;
 }

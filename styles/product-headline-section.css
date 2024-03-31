@@ -2,14 +2,17 @@
   width: 100%;
   margin: 3rem 0;
   height: 960px;
-  position: relative;
+  background-image: url("/assets/basketball-court-with-people-fan-sport-arena-render-3d-illustration 1.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: flex;
+  align-items: center;
 }
 
 .headline-container {
-  position: absolute;
-  z-index: 1;
-  top: 50%;
-  left: 5%;
+  padding-left: 7rem;
+  text-wrap: wrap;
 }
 
 .headline {
@@ -30,7 +33,7 @@ p span {
   color: var(--purplish-blue);
 }
 
-.basketball-court-img {
+/* .basketball-court-img {
   width: 100%;
   object-fit: contain;
-}
+} */

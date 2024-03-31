@@ -3,6 +3,7 @@
   background-color: var(--pale-lavander);
   position: relative;
   z-index: 1;
+  width: 100%;
 }
 
 .diagonal-vector {

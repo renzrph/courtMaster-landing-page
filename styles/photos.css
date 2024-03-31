@@ -5,6 +5,7 @@
 .testimonials h1 {
   padding: 2rem 0;
   font-size: var(--testimonials-h1);
+  text-wrap: wrap;
 }
 
 .testimonials h1 span {
@@ -33,7 +34,7 @@
 }
 
 .carousel-item img {
-  width: 90%;
+  width: 50%;
   margin: 0 auto;
   height: 433px;
   display: block;
